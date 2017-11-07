@@ -1,0 +1,11 @@
+jupyter==1.0.0
+jupyter-client==4.4.0
+jupyter-console==5.0.0
+jupyter-contrib-core==0.3.1
+jupyter-core==4.2.0
+matplotlib==1.5.3
+notebook==4.2.3
+numpy==1.13.3
+pandas==0.18.1
+scikit-learn==0.18
+scipy==0.18.1
